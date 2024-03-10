@@ -29,12 +29,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+github_username: wattwong103
+facebook_username: northymwits26
 twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+instagram_username: north_mw26
+linkedin_username: w-wongkaew
+medium_username: @northy.cu103
 
 
 # Posts Settings
@@ -110,4 +110,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1
